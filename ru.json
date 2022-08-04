@@ -5,33 +5,27 @@
     "items": [
       {
         "title": "Создание системы",
+        "code": "systemCreation",
         "items": [
           {
             "code": "sectionCatalogCreation",
             "version": "1.0.0",
             "title": "Как создать отдел и каталог",
-            "description": "Пользователь видит чистый лист. Нажимает кнопку «+Отдел». Называет его. Нажимает на кнопку «+Добавить». Создает структуру каталога.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/sectionCatalogCreation.mp4",
-            "additional": []
-          },
-          {
-            "code": "conditionalVisibility",
-            "version": "1.0.1",
-            "title": "Условная видимость полей",
-            "description": "Пользователь открывает Бипиум. У него уже есть два каталога «каталогнейм1» и «каталогнейм2». Нужно связать второй каталог с первым.",
-            "url": "",
             "additional": []
           }
         ]
       },
       {
         "title": "Работа с данными",
+        "code": "workWithData",
         "items": [
           {
             "code": "cardsView",
             "version": "1.0.0",
             "title": "Плиточный вид",
-            "description": "Пользователь открывает каталог с записями. Показывается каталог и пользователь нажимает на календарь. Тыкает на шестеренку и показывается по каким критериям можно раскладывать.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/cardsView.mp4",
             "additional": []
           },
@@ -39,7 +33,7 @@
             "code": "calendarView",
             "version": "1.0.1",
             "title": "Календарный вид",
-            "description": "Пользователь открывает Бипиум. У него уже есть два каталога «каталогнейм1» и «каталогнейм2». Нужно связать второй каталог с первым.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/calendarView.mp4",
             "additional": []
           },
@@ -47,7 +41,7 @@
             "code": "filters",
             "version": "1.0.1",
             "title": "Фильтры",
-            "description": "Пользователь открывает каталог с записями. Показывается каталог и пользователь начинает фильтрацию данных. В итоге показываются нужные записи по фильтрам. Пользователь может сохранить фильтр, чтобы его переиспользовать в дальнейшем.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/filters.mp4",
             "additional": []
           },
@@ -55,7 +49,7 @@
             "code": "views",
             "version": "1.0.1",
             "title": "Виды",
-            "description": "Пользователь открывает каталог с записями. Показывается каталог и пользователь начинает выбирать варианты фильтров. Сохраняет фильтр с названием «фильтрнейм».",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/views.mp4",
             "additional": []
           }
@@ -63,12 +57,13 @@
       },
       {
         "title": "Отчеты и графики",
+        "code": "ReportsAndCharts",
         "items": [
           {
             "code": "createChart",
             "version": "1.0.0",
             "title": "Как создать график",
-            "description": "Из каталога с записями пользователь переходит в отчеты. В отчетах нажимает на кнопку «Добавить график». Показывается процесс создания графика. После создания показывается график.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/reportsAndGraphs/createChart.mp4",
             "additional": []
           },
@@ -76,7 +71,7 @@
             "code": "createDashboard",
             "version": "1.0.1",
             "title": "Создание дашборда",
-            "description": "Пользователь открывает каталог с записями. Переходит в «отчеты». Нажимает на «дашборд каталога».",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/reportsAndGraphs/createDashboard.mp4",
             "additional": []
           }
@@ -84,12 +79,13 @@
       },
       {
         "title": "Сотрудники и права",
+        "code": "UsersAndRights",
         "items": [
           {
             "code": "addUsers",
             "version": "1.0.0",
             "title": "Добавление пользователя в систему",
-            "description": "Пользователь переходит в каталог «Управление». Нажимает на кнопку «Добавить». Пишет имя и почту. Показывается, что сотрудник находится в списке и его роль.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/addUsers.mp4",
             "additional": []
           },
@@ -97,7 +93,7 @@
             "code": "userRolues",
             "version": "1.0.1",
             "title": "Назначение ролей сотрудникам",
-            "description": "Пользователь заходит в отдел «Управление». Выбирает каталог «Роль». Нажимает на кнопку «Добавить». Создает новую роль. Добавляет роль сотруднику.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/userRolues.mp4",
             "additional": []
           },
@@ -105,15 +101,11 @@
             "code": "catalogUsers",
             "version": "1.0.1",
             "title": "Каталог «Сотрудники»",
-            "description": "Показываем что в нем можно создать роли. Назначить на роль права доступа. Показать ему только то, что ему нужно/можно видеть.",
+            "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/catalogUsers.mp4",
             "additional": []
           }
         ]
-      },
-      {
-        "title": "Автоматизации",
-        "items": []
       }
     ]
   }
