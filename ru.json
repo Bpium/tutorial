@@ -90,14 +90,6 @@
             "additional": []
           },
           {
-            "code": "userRolues",
-            "version": "1.0.1",
-            "title": "Назначение ролей сотрудникам",
-            "description": "",
-            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/userRolues.mp4",
-            "additional": []
-          },
-          {
             "code": "catalogUsers",
             "version": "1.0.1",
             "title": "Каталог «Сотрудники»",
@@ -106,9 +98,17 @@
             "additional": []
           },
           {
+            "code": "userRolues",
+            "version": "1.0.1",
+            "title": "Назначение ролей сотрудникам",
+            "description": "",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/userRolues.mp4",
+            "additional": []
+          },
+          {
             "code": "RightsForSectionCatalogETC",
             "version": "1.0.1",
-            "title": "Права на отдел, каталог, поле",
+            "title": "Права на отдел, каталог, поля",
             "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/RightsForSectionCatalogETC.mp4",
             "additional": []
