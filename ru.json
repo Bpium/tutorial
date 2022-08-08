@@ -104,6 +104,22 @@
             "description": "",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/catalogUsers.mp4",
             "additional": []
+          },
+          {
+            "code": "RightsForSectionCatalogETC",
+            "version": "1.0.1",
+            "title": "Права на отдел, каталог, поле",
+            "description": "",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/RightsForSectionCatalogETC.mp4",
+            "additional": []
+          },
+          {
+            "code": "ViewForRights",
+            "version": "1.0.1",
+            "title": "Правовые виды",
+            "description": "",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/ViewForRights.mp4",
+            "additional": []
           }
         ]
       }
