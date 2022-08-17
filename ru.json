@@ -1,7 +1,7 @@
 [
   {
     "title": "Первые шаги в системе",
-    "description": "",
+    "description": "В знаке вопроса мы показываем как работают основные функции платформы. Заходите сюда, если появился вопрос и вам нужен пример настройки.",
     "items": [
       {
         "title": "Создание системы",
@@ -11,7 +11,7 @@
             "code": "sectionCatalogCreation",
             "version": "1.0.0",
             "title": "Как создать отдел и каталог",
-            "description": "",
+            "description": "Вы сами задаете структуру данных в системе: какие будут отделы и каталоги, поля в записях, связи между ними. Определите какие каталоги нужны именно в вашей ситуации:  для отдела продаж это будут компании, контакты и обращения.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/sectionCatalogCreation.mp4",
             "additional": []
           }
@@ -25,7 +25,7 @@
             "code": "cardsView",
             "version": "1.0.0",
             "title": "Плиточный вид",
-            "description": "",
+            "description": "Раскладывайте записи карточками в виде матрицы по 2 осям из любых полей анкеты — заявки по статусам / исполнителям или по типам / городам.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/cardsView.mp4",
             "additional": []
           },
@@ -33,7 +33,7 @@
             "code": "calendarView",
             "version": "1.0.1",
             "title": "Календарный вид",
-            "description": "",
+            "description": "Визуализируйте задачи, обращения и активности со временем. Удобно для записи клиентов на прием, составлении расписаний или учета мероприятий.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/calendarView.mp4",
             "additional": []
           },
@@ -41,7 +41,7 @@
             "code": "filters",
             "version": "1.0.1",
             "title": "Фильтры",
-            "description": "",
+            "description": "Выбирайте поля, фильтруйте по множеству параметров и для быстрого доступа сохраняйте как отдельный Вид.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/filters.mp4",
             "additional": []
           },
@@ -49,7 +49,7 @@
             "code": "views",
             "version": "1.0.1",
             "title": "Виды",
-            "description": "",
+            "description": "Создавайте и сохраняйте постоянные виды фильтра в системе. Функция нужна для быстрого доступа к нужной вам информации: в конце месяца при создании отчета вам нужно вернуться к тем же данным, которые вы смотрели в прошлом месяце.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/workWithData/views.mp4",
             "additional": []
           }
@@ -63,7 +63,7 @@
             "code": "createChart",
             "version": "1.0.0",
             "title": "Как создать график",
-            "description": "",
+            "description": "Создайте экраны с графиками из данных в системе. Фильтруйте данные для построения графиков по любым условиям. Сотрудники могут видеть отчеты на основе только доступных им данных.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/reportsAndGraphs/createChart.mp4",
             "additional": []
           },
@@ -71,7 +71,7 @@
             "code": "createDashboard",
             "version": "1.0.1",
             "title": "Создание дашборда",
-            "description": "",
+            "description": "Вы можете создавать дашборды с отчетами для разной деятельности. Для продаж у вас будут одни отчеты, для логистов другие. На каждый дашборд можно раздать права доступа.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/reportsAndGraphs/createDashboard.mp4",
             "additional": []
           }
@@ -85,7 +85,7 @@
             "code": "addUsers",
             "version": "1.0.0",
             "title": "Добавление пользователя в систему",
-            "description": "",
+            "description": "Посмотрите видео, чтобы узнать как добавить нового пользователя в вашу систему.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/addUsers.mp4",
             "additional": []
           },
@@ -93,7 +93,7 @@
             "code": "catalogUsers",
             "version": "1.0.1",
             "title": "Каталог «Сотрудники»",
-            "description": "",
+            "description": "«Сотрудники» — системный каталог. Нужен для добавления новых пользователей в созданную систему и настройки прав доступа.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/catalogUsers.mp4",
             "additional": []
           },
@@ -101,7 +101,7 @@
             "code": "userRolues",
             "version": "1.0.1",
             "title": "Назначение ролей сотрудникам",
-            "description": "",
+            "description": "Вы можете создать роли в системе для каждого человека в вашей команде и раздать на роль права доступа: Роль «Продажи» имеет доступ к каталогу «Компании», роль «Инженер» имеет доступ к каталогу «Администрирование системы».",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/userRolues.mp4",
             "additional": []
           },
@@ -109,7 +109,7 @@
             "code": "RightsForSectionCatalogETC",
             "version": "1.0.1",
             "title": "Права на отдел, каталог, поля",
-            "description": "",
+            "description": "В Бипиуме 7 уровней доступа к данным в каталогах. Сотрудникам можно ограничить права на просмотр, изменение, создание, удаление или экспорт данных.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/RightsForSectionCatalogETC.mp4",
             "additional": []
           },
@@ -117,7 +117,7 @@
             "code": "ViewForRights",
             "version": "1.0.1",
             "title": "Правовые виды",
-            "description": "",
+            "description": "В Бипиуме можно задавать правила на группы сотрудников — правовые группы. Любой каталог системы может стать списком правовых групп: должности, филиалы, навыки, города и другие каталоги, которые вы сделали.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/employeesAndRights/ViewForRights.mp4",
             "additional": []
           }
