@@ -14,6 +14,30 @@
             "description": "Вы сами задаете структуру данных в системе: какие будут отделы и каталоги, поля в записях, связи между ними. Определите какие каталоги нужны именно в вашей ситуации:  для отдела продаж это будут компании, контакты и обращения.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/sectionCatalogCreation.mp4",
             "additional": []
+          },
+          {
+            "code": "linkedCatalogs",
+            "version": "1.0.0",
+            "title": "Связанные каталоги",
+            "description": "Вы можете связать каталоги логически между собой. Это упрощает поиск и избавляет от дублирования. Можно не заполнять данные клиента в обращении, а выбрать из каталога клиентов.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/linkedCatalogs.mp4",
+            "additional": []
+          },
+          {
+            "code": "requiredField",
+            "version": "1.0.0",
+            "title": "Обязательное поле",
+            "description": "В Бипиуме можно ставить поля, которые обязательны к заполнению. Без заполнения поля запись не сохраняется. Функция полезна, если ваши сотрудники забывают заполнять карточки полностью и вы хотите это исправить.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/requiredField.mp4",
+            "additional": []
+          },
+          {
+            "code": "conditionalVisibility",
+            "version": "1.0.0",
+            "title": "Условная видимость",
+            "description": "Настройте видимость полей в карточке, чтобы скрыть одно поле, пока в другом не будет указано нужное значение. К примеру, при выборе в заявке типа «вопрос» будут одни поля, а при «претензия» — другие.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/conditionalVisibility.mp4",
+            "additional": []
           }
         ]
       },
