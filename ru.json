@@ -11,9 +11,27 @@
             "code": "sectionCatalogCreation",
             "version": "1.0.0",
             "privilege": "admin",
-            "title": "Как создать отдел и каталог",
-            "description": "Вы сами задаете структуру данных в системе: какие будут отделы и каталоги, поля в записях, связи между ними. Определите какие каталоги нужны именно в вашей ситуации:  для отдела продаж это будут компании, контакты и обращения.",
-            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/sectionCatalogCreation.mp4",
+            "title": "Как создать каталог",
+            "description": "Вы сами задаете структуру данных в системе: какие будут отделы и каталоги, поля в записях, связи между ними. Определите какие каталоги нужны именно в вашей ситуации: для отдела продаж это будут компании, контакты и обращения.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/catalogCreation.mp4",
+            "additional": []
+          },
+          {
+            "code": "sectionCatalogEditing",
+            "version": "1.0.0",
+            "privilege": "admin",
+            "title": "Как редактировать каталог",
+            "description": "Структуру каталога можно менять в любой момент: добавляйте и удаляйте поля, меняйте их типы и порядок, настраивайте обязательность заполнения. Система подстроится под ваши процессы по мере их роста.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/catalogEditing.mp4",
+            "additional": []
+          },
+          {
+            "code": "dataImport",
+            "version": "1.0.0",
+            "privilege": "admin",
+            "title": "Импорт данных",
+            "description": "Перенесите данные в систему из таблиц Excel без ручного ввода. Сопоставьте колонки файла с полями каталога, и записи загрузятся автоматически — удобно при первом запуске или регулярном пополнении данных.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/dataImport.mp4",
             "additional": []
           },
           {
@@ -21,26 +39,8 @@
             "version": "1.0.0",
             "privilege": "admin",
             "title": "Связанные каталоги",
-            "description": "Вы можете связать каталоги логически между собой. Это упрощает поиск и избавляет от дублирования. Можно не заполнять данные клиента в обращении, а выбрать из каталога клиентов.",
-            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/linkedCatalogs.mp4",
-            "additional": []
-          },
-          {
-            "code": "requiredField",
-            "version": "1.0.0",
-            "privilege": "admin",
-            "title": "Обязательное поле",
-            "description": "В Бипиуме можно ставить поля, которые обязательны к заполнению. Без заполнения поля запись не сохраняется. Функция полезна, если ваши сотрудники забывают заполнять карточки полностью и вы хотите это исправить.",
-            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/requiredField.mp4",
-            "additional": []
-          },
-          {
-            "code": "conditionalVisibility",
-            "version": "1.0.0",
-            "privilege": "admin",
-            "title": "Условная видимость",
-            "description": "Настройте видимость полей в карточке, чтобы скрыть одно поле, пока в другом не будет указано нужное значение. К примеру, при выборе в заявке типа «вопрос» будут одни поля, а при «претензия» — другие.",
-            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/conditionalVisibility.mp4",
+            "description": "Связывайте каталоги между собой, чтобы не дублировать данные. Вместо повторного ввода достаточно выбрать нужную запись из связанного каталога, и все её данные будут под рукой.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/linkedCatalogsNew.mp4",
             "additional": []
           }
         ]
