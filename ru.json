@@ -1,7 +1,6 @@
 [
   {
     "title": "Первые шаги в системе",
-    "description": "В знаке вопроса мы показываем функции платформы. Заходите сюда, если появился вопрос и нужен пример настройки.",
     "items": [
       {
         "title": "Создание системы",
@@ -41,6 +40,14 @@
             "title": "Связанные каталоги",
             "description": "Связывайте каталоги между собой, чтобы не дублировать данные. Вместо повторного ввода достаточно выбрать нужную запись из связанного каталога, и все её данные будут под рукой.",
             "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/linkedCatalogsNew.mp4",
+            "additional": []
+          },
+          {
+            "code": "fieldVisibility",
+            "version": "1.0.0",
+            "privilege": "admin",
+            "title": "Видимость полей. Обязательное поле.",
+            "url": "https://storage.yandexcloud.net/download.bpium.ru/tutorial/systemCreation/fieldVisibility.mp4",
             "additional": []
           }
         ]
